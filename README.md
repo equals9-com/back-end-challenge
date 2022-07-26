@@ -1,4 +1,4 @@
-# Desafio-equals9
+# Desafio back-end
 
 O objetivo deste desafio é verificar se o desafiado é capaz de utilizar o framework nestjs, assim como prever e evitar possíveis problemas de escalabilidade e falhas de segurança em uma API Restful. 
 
